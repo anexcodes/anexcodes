@@ -70,6 +70,7 @@
     Whether you are a fellow developer seeking inspiration or a curious individual intrigued by the world of frontend web development, Anex's GitHub profile            offers a glimpse into a world of creativity, innovation, and limitless possibilities. Join the journey and witness the magic of frontend development unfold         in this repository wonderland. Happy coding!
   </p>
 </div>
+<br>
 
 <!-- Skills -->
 <h2 align="center">
